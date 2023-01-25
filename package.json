@@ -1,0 +1,23 @@
+{
+  "name": "h-and-b-react-native-challenge-prepare",
+  "version": "1.0.0",
+  "description": "online React-Native",
+  "keywords": [],
+  "homepage": "https://codesandbox.io/s/new",
+  "main": "src/index.js",
+  "dependencies": {
+    "@types/react-native": "0.66.15",
+    "node-fetch": "2.6.0",
+    "react": "16.12.0",
+    "react-dom": "16.12.0",
+    "react-native-web": "0.11.7",
+    "react-scripts": "3.3.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  }
+}
